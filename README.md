@@ -1,17 +1,11 @@
 "# alumnii recovery"
 
-Idea principal.
----------------
-Nos hemos propuesto desarrollar una app que sirva de apoyo a aquellas generaciones de jóvenes
-estudiantes que están en etapa escolar y se ven compelidos por diversas situaciones a desertar
-de la escuela, por lo que nuestra motivación principal es buscar diversas soluciones que la 
-informática nos pueda brindar.
-
-Requerimientos.
---------------
-
-
-
-
-
-
+Main idea.
+----------
+We have set out to develop an app that supports those generations of young people
+students who are in school and are compelled by various situations to drop out
+of the school, so our main motivation is to find different solutions that
+computing can provide us.
+		      
+Requirements. 
+-----------
